@@ -71,6 +71,9 @@
 	</tr>
 {/section} 
 </table>
+<br/>
+<img src="res/scatter.php?s={$match.homeGoals}:{$match.awayGoals}&p={$scatterPlotPoints}&h={$scatterPlotHighlight}"/>
+
 </td>
 </tr>
 {/if}
