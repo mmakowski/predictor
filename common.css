@@ -1,0 +1,195 @@
+P {
+  COLOR: #000000;
+  FONT-FAMILY: Verdana, Arial, Helvetica; 
+}
+
+OL {
+  FONT-FAMILY: Verdana, Arial, Helvetica; 
+  FONT-SIZE: 8pt
+}
+
+LI {
+  FONT-FAMILY: Verdana, Arial, Helvetica; 
+  FONT-SIZE: 8pt
+}
+
+B {
+  FONT-FAMILY: Verdana, Arial, Helvetica; 
+  FONT-WEIGHT: bold
+}
+
+I {
+  FONT-FAMILY: Verdana, Arial, Helvetica; 
+}
+
+input {
+  font-family: Arial, Helvetica; 
+  font-size: 8pt;
+}
+
+select {
+  font-family: Arial, Helvetica; 
+  font-size: 8pt;
+}
+
+h1 {
+  color: #000000;
+  font-family: Arial, Helvetica; 
+  font-size: 16pt;
+}
+
+h2.subtitle {
+  COLOR: #333333;
+}
+
+h2.matchTeams {
+  COLOR: #333333;
+}
+
+h2.matchResult {
+  COLOR: #333333;
+}
+
+h3.matchExtra {
+  COLOR: #333333;
+}
+
+a {
+  color: #555555;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5555ff;
+  text-decoration: underline;
+}
+
+td {
+  color: #000000; 
+  font-family: Arial, Helvetica; 
+  font-size: 8pt;
+  vertical-align: top
+}
+
+td.barButton {
+  width: 120px;
+  height: 18px;
+  text-align: center;
+  background-image: url(res/barbutton.gif);  
+}
+
+a.barButton:hover {
+  text-decoration: none;
+}
+
+td.bigTitleL {
+  width: 28px;
+  height: 28px;
+  background-image: url(res/bigtitlel.gif);  
+}
+
+td.bigTitleR {
+  width: 28px;
+  height: 28px;
+  background-image: url(res/bigtitler.gif);  
+}
+
+td.bigTitle {
+  height: 28px;
+  background: #fdda00;
+  font-size: 16pt;
+  font-weight: bold;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 28px;
+}
+
+td.secTitle {
+  color: #000000;
+  font-family: Arial, Helvetica; 
+  font-weight: bold;
+  font-size: 12pt;
+  background-image: url(res/sectitle.gif);
+  background-repeat: no-repeat;
+  height: 22px;
+  line-height: 22px;
+  text-indent: 30px;
+}
+
+a.match {
+  font-weight: bold;
+}
+
+a.game {
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+td.gameRound {
+  font-weight: bold;
+}
+
+td.game {
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+td.gameLinks {
+  text-align: right;
+}
+
+table.ranking {
+  background-image: url(res/rankbg.gif);
+  border: solid #555555;
+  border-width: 1;
+}
+
+tr.rankingHead {
+  background: #555555;
+}
+
+td.rankingHead {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+tr.rankingSelRow {
+  background: #fdda00;
+}
+
+td.predFixture {
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+font.round {
+  font-family: Arial, Helvetica; 
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+td.bigresHome {
+  font-weight: bold;
+  font-size: 14pt;
+  text-align: right;  
+}
+
+td.bigresCenter {
+  font-weight: bold;
+  font-size: 14pt;
+  text-align: center;  
+}
+
+td.bigresAway {
+  font-weight: bold;
+  font-size: 14pt;
+  text-align: left;  
+}
+
+td.bigresExtra {
+  font-weight: bold;
+  font-size: 12pt;
+  text-align: center;  
+}
